@@ -1,4 +1,4 @@
 const hellofunction = () => {
-  console.log("Hello Node.js");
+  console.log("Hello GitHub");
 };
 hellofunction();
